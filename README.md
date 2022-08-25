@@ -7,3 +7,5 @@ Files included:
 
 - `polirural-hub.war`: Compressed format of the portlet
 - `portlet` folder: Uncompressed folder and files contained in `polirural-hub.war`
+
+[Discussions](https://github.com/polirural/Hub/discussions)
