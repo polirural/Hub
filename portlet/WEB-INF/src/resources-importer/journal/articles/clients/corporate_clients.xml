@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US"> 
+	<dynamic-element name="clients" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=200_100_img1.png$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[client]]></dynamic-content>
+	</dynamic-element> 
+	<dynamic-element name="clients" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=200_100_img1.png$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[client]]></dynamic-content>
+	</dynamic-element> 
+	<dynamic-element name="clients" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=200_100_img1.png$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[client]]></dynamic-content>
+	</dynamic-element> 
+	<dynamic-element name="clients" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=200_100_img1.png$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[client]]></dynamic-content>
+	</dynamic-element> 
+	<dynamic-element name="clients" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=200_100_img1.png$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[client]]></dynamic-content>
+	</dynamic-element> 
+	<dynamic-element name="clients" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=200_100_img1.png$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[client]]></dynamic-content>
+	</dynamic-element> 
+	<dynamic-element name="clients" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=200_100_img1.png$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[client]]></dynamic-content>
+	</dynamic-element> 
+	<dynamic-element name="clients" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=200_100_img1.png$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[client]]></dynamic-content>
+	</dynamic-element> 
+	<dynamic-element name="clients" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=200_100_img1.png$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[client]]></dynamic-content>
+	</dynamic-element> 
+	
+</root>

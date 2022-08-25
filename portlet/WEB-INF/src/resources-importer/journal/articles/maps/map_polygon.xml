@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="title" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[Google Map Polygon]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLat" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[-12.043333]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLng" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[-77.028333]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataPolygon" type="boolean" index-type="keyword" index="0">
+    	<dynamic-element name="dataPolygonCords" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[[
+	         [-12.040397656836609,-77.03373871559225],
+	         [-12.040248585302038,-77.03993927003302],
+	         [-12.050047116528843,-77.02448169303511],
+	         [-12.044804866577001,-77.02154422636042]
+	       ]]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="dataPolygonStyles" type="text" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[{'strokeColor':'#BBD8E9','strokeOpacity':1,'strokeWeight':3,'fillColor':'#BBD8E9','fillOpacity':0.6}]]>
+			</dynamic-content>
+		</dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[true]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="dataPin" type="boolean" index-type="keyword" index="0">
+    	<dynamic-element name="dataPinIcon" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US"><![CDATA[true]]></dynamic-content>
+	</dynamic-element>
+</root>
+            

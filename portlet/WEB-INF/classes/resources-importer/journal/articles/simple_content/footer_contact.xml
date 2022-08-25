@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="content" type="text_area" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+		    <!-- Footer -->
+		    <!-- Contact Form -->
+				<div class="u-bg-overlay g-bg-img-hero g-bg-black-opacity-0_6--after g-color-white g-py-100" style="background-image: url([$FILE=1920_1080_img1.jpg$]);">
+				  <div class="container u-bg-overlay__inner text-center">
+				    <div class="mx-auto g-width-70x--md">
+				      <header class="u-heading-v8-2 g-mb-60">
+				        <h2 class="u-heading-v8__title text-uppercase g-font-weight-600 g-mb-25">Contact us</h2>
+				        <p class="g-color-white-opacity-0_8 mb-0">Cras luctus blandit sapien eget varius. Ut egestas justo faucibus laoreet fringilla. Pellentesque dictum, massa ut consequat euismod, tortor diam cursus nulla, a rhoncus justo mi ut diam.</p>
+				      </header>
+				
+				      <form>
+				        <div class="row">
+				          <div class="col-md-6 form-group g-mb-30">
+				            <input class="form-control g-color-white g-color-white--focus g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_3 g-brd-white--focus g-py-13 g-px-15" type="text" placeholder="Your name">
+				          </div>
+				
+				          <div class="col-md-6 form-group g-mb-30">
+				            <input class="form-control g-color-white g-color-white--focus g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_3 g-brd-white--focus g-py-13 g-px-15" type="tel" placeholder="Your phone">
+				          </div>
+				
+				          <div class="col-md-12 form-group g-mb-30">
+				            <input class="form-control g-color-white g-color-white--focus g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_3 g-brd-white--focus g-py-13 g-px-15" type="text" placeholder="Subject">
+				          </div>
+				
+				          <div class="col-md-12 form-group g-mb-30">
+				            <textarea class="form-control g-color-white g-color-white--focus g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_3 g-brd-white--focus g-resize-none g-py-13 g-px-15" rows="7" placeholder="Message"></textarea>
+				          </div>
+				        </div>
+				
+				        <div class="text-center">
+				          <button class="btn btn-block u-btn-primary text-uppercase g-px-25 g-py-13" type="submit" role="button">Send Message</button>
+				        </div>
+				      </form>
+				    </div>
+				  </div>
+				</div>
+		    <!-- End Copyright Footer -->
+
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+</root>
+            

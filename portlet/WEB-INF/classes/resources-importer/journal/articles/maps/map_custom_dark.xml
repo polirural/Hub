@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="title" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[Customized GMap: Dark]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLat" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[40.748866]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLng" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[-73.988366]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataType" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[custom]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataTitle" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[Agency]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataPin" type="boolean" index-type="keyword" index="0">
+    	<dynamic-element name="dataPinIcon" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[{"data":"[$FILE=pin_red.png$]"}]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US"><![CDATA[true]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataZoom" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US"><![CDATA[12]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataStyles" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US"><![CDATA[[
+         ['', '', [{'saturation':-100},{'lightness':50},{'visibility':'simplified'}]],
+         ['', 'geometry', [{'color':'#1e303d'}]],
+         ['road', '', [{'color':'#ffffff'},{'lightness':-100}]],
+         ['road', 'labels.text.fill', [{'color':'#ffffff'},{'lightness':-50}]],
+         ['water', '', [{'color':'#0e171d'}]]
+       ]]]></dynamic-content>
+	</dynamic-element>
+	
+	
+</root>
+            

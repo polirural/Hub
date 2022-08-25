@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="title" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[Customized GMap: Light]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLat" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[40.748866]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLng" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[-73.988366]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataType" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[custom]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataTitle" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[Agency]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataPin" type="boolean" index-type="keyword" index="0">
+    	<dynamic-element name="dataPinIcon" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[{"data":"[$FILE=pin_green.png$]"}]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US"><![CDATA[true]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataZoom" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US"><![CDATA[12]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataStyles" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US"><![CDATA[[
+         ['', '', [{'saturation':-100},{'lightness':51},{'visibility':'simplified'}]],
+         ['', 'labels', [{'visibility':'on'}]],
+         ['water', '', [{'color':'#bac6cb'}]]
+       ]]]></dynamic-content>
+	</dynamic-element>
+	
+	
+</root>
+            

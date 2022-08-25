@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="title" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[Google Map Routes]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLat" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[-12.043333]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLng" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[-77.028333]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataRoutes" type="boolean" index-type="keyword" index="0">
+    	<dynamic-element name="dataRoutesCords" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[[
+	       [-12.044012922866312, -77.02470665341184],
+	       [-12.090814532191756, -77.02271108990476]
+	     ]]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="dataRoutesStyles" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+	        	<![CDATA[{'travelMode':'driving','strokeColor':'#131540','strokeOpacity':0.6,'strokeWeight':6}]]>
+			</dynamic-content>
+		</dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[true]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataPin" type="boolean" index-type="keyword" index="0">
+    	<dynamic-element name="dataPinIcon" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US"><![CDATA[true]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataZoom" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US"><![CDATA[14]]></dynamic-content>
+	</dynamic-element>
+</root>
+            

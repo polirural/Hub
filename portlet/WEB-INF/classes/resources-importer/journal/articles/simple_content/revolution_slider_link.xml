@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="content" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		<!-- Content -->
+			      <section class="g-min-height-60vh g-py-50">
+			        <div class="container">
+			          	<h1 class="h1 g-font-weight-300 g-color-black g-mb-20">
+				          	Please download the 
+				          	<strong>Revolution Slider</strong> 
+				          	demos from the provided dropbox link :
+		          		</h1>
+			          <p><code>Download Link: https://www.dropbox.com/s/gops9njcg2dmwb1/u-revolution-slider.zip?dl=0</code></p>
+			        </div>
+			      </section>
+			      <!-- End Content -->
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+</root>
+            
+
+

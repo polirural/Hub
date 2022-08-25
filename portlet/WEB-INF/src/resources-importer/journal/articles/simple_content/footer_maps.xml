@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="content" type="text_area" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+		    <!-- Footer -->
+<div class="container-fluid text-center g-color-white-opacity-0_8 px-0">
+  <div class="row no-gutters g-min-height-80vh">
+    <!-- Google Map -->
+    <div class="col-md-12 col-lg-4 g-min-height-400" style="background:url([$FILE=map_bg.jpg$]); background-size: cover;">
+      <div id="gMap1" class="js-g-map h-100"
+	      	data-type="custom" data-lat="40.674" data-lng="-73.946" data-zoom="12" data-title="Agency" data-styles='[["", "", [{"saturation":-100},{"lightness":51},{"visibility":"simplified"}]], ["", "labels", [{"visibility":"on"}]], ["water", "", [{"color":"#bac6cb"}]] ]'
+	    	data-pin="true" data-pin-icon="[$FILE=pin_green.png$]">
+      </div>
+    </div>
+    <!-- End Google Map -->
+
+    <!-- Footer Content -->
+    <div class="col-md-6 col-lg-4 d-flex g-bg-primary g-pa-40">
+      <div class="align-self-center">
+        <header class="u-heading-v8-2 g-mb-40">
+          <h2 class="u-heading-v8__title g-color-white text-uppercase g-font-weight-700 g-mb-0">
+            <strong class="g-font-size-12 g-bg-black-opacity-0_9 g-mb-20">Our Contacts</strong>
+            <br>
+            <span class="g-color-black-opacity-0_9">Get in</span>
+            touch
+          </h2>
+        </header>
+
+        <div class="lead g-font-weight-400 g-mb-40">
+          <p>Aliquam dapibus quis sapien id pharetra. Vivamus iaculis est vitae libero tempus, in sollicitudin est consectetur porttitor iaculis pretium</p>
+        </div>
+
+        <address class="text-uppercase g-line-height-2 g-mb-40">
+          <p>Email:
+            <a class="g-color-white" href="mailto:admin@themeray.com">
+              <strong>info@htmlstream.com</strong></a>
+          </p>
+          <p>Phone number: <strong class="g-color-white">+48 555 2566 112</strong></p>
+          <p>Address: <strong class="g-color-white">In sed lectus tincidunt</strong></p>
+        </address>
+
+        <ul class="list-inline mb-0">
+          <li class="list-inline-item g-mx-5">
+            <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-color-primary g-bg-white g-bg-black-opacity-0_9--hover" href="#">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-5">
+            <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-color-primary g-bg-white g-bg-black-opacity-0_9--hover" href="#">
+              <i class="fa fa-instagram"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-5">
+            <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-color-primary g-bg-white g-bg-black-opacity-0_9--hover" href="#">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-5">
+            <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-color-primary g-bg-white g-bg-black-opacity-0_9--hover" href="#">
+              <i class="fa fa-youtube"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!-- End Footer Content -->
+
+    <!-- Footer Content -->
+    <div class="col-md-6 col-lg-4 d-flex g-bg-black-opacity-0_9 g-pa-40">
+      <div class="align-self-center w-100">
+        <h2 class="g-color-white text-uppercase g-font-weight-700 g-mb-50"> Have a
+          <span class="g-color-primary">Question?</span>
+        </h2>
+
+        <form>
+          <div class="form-group g-mb-10">
+            <input class="form-control g-color-white g-bg-black-opacity-0_4 g-brd-black-opacity-0_4 g-brd-primary--focus rounded-0 g-pa-15" type="text" placeholder="Your name">
+          </div>
+          <div class="form-group g-mb-10">
+            <input class="form-control g-color-white g-bg-black-opacity-0_4 g-brd-black-opacity-0_4 g-brd-primary--focus rounded-0 g-pa-15" type="tel" placeholder="Your phone">
+          </div>
+          <div class="form-group g-mb-10">
+            <input class="form-control g-color-white g-bg-black-opacity-0_4 g-brd-black-opacity-0_4 g-brd-primary--focus rounded-0 g-pa-15" type="text" placeholder="Subject">
+          </div>
+          <div class="form-group g-mb-40">
+            <textarea class="form-control g-resize-none g-color-white g-bg-black-opacity-0_4 g-brd-black-opacity-0_4 g-brd-primary--focus rounded-0 g-pa-15" rows="5" placeholder="Message"></textarea>
+          </div>
+          <button class="btn btn-md u-btn-primary g-font-size-12 text-uppercase rounded-0 g-py-11 g-px-30" type="submit" role="button">Send Message</button>
+        </form>
+      </div>
+    </div>
+    <!-- End Footer Content -->
+  </div>
+</div>
+<!-- Footer -->
+
+<!-- Copyright -->
+<footer class="text-center g-py-40">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 text-md-left g-mb-20 g-mb-0--md">
+        <a href="home">
+          <img class="img-fluid" src="[$FILE=logo_7.png$]" alt="Logo">
+        </a>
+      </div>
+
+      <div class="col-md-6 align-self-center text-md-right">
+        <small class="g-font-size-default">© 2019 All right reserved. By the folks behind
+          <a class="g-color-primary g-color-primary--hover" href="#">Htmlstream</a>
+        </small>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- End Copyright -->
+
+
+<script>
+	(function loopMap() {
+		setTimeout(function () {
+			if($.HSCore != undefined && $.HSCore.components.HSTextSlideshow != undefined ){
+        		// initialization of google map
+				$.HSCore.components.HSGMap.init('.js-g-map');
+		    }else{
+			    loopMap()
+		    }
+		  }, 1000);
+	}());
+	        
+	
+    function initMap() {
+        $.HSCore.components.HSGMap.init('.js-g-map');
+    }
+    
+    if (typeof google === 'object' && typeof google.maps === 'object') {
+        initMap();
+    } else {
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src = "http://maps.googleapis.com/maps/api/js?key=AIzaSyAtt1z99GtrHZt_IcnK-wryNsQ30A112J0&callback=initMap";
+        document.body.appendChild(script);
+    }
+</script>
+
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+</root>
+            

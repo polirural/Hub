@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="title" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[Google Map Roadmap]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLat" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[40.748866]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLng" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[-73.988366]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataPin" type="boolean" index-type="keyword" index="0">
+    	<dynamic-element name="dataPinIcon" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US"><![CDATA[true]]></dynamic-content>
+	</dynamic-element>
+</root>
+            

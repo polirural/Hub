@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US"> 
+	<dynamic-element instance-id="slides1" name="slides" type="text" dataType="string" indexType="keyword">
+		<dynamic-element instance-id="image1" name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=1920_1080_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="desc1" name="desc" type="text" dataType="string" indexType="keyword">
+			<dynamic-content><![CDATA[Unify v2.0 Template is available for download now! ]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="link_text1" name="link_text" type="text" dataType="string" indexType="keyword">
+			<dynamic-content><![CDATA[PURCHASE UNIFY]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="link1" name="link" type="text" dataType="string" indexType="keyword">
+			<dynamic-content><![CDATA[#]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Making your <br />Ideas possible. ]]></dynamic-content>
+	</dynamic-element> 
+	
+	<dynamic-element instance-id="slides2" name="slides" type="text" dataType="string" indexType="keyword">
+		<dynamic-element instance-id="image2" name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=1920_1080_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="desc2" name="desc" type="text" dataType="string" indexType="keyword">
+			<dynamic-content><![CDATA[Unify v2.0 Template is available for download now! ]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="link_text2" name="link_text" type="text" dataType="string" indexType="keyword">
+			<dynamic-content><![CDATA[PURCHASE UNIFY]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="link2" name="link" type="text" dataType="string" indexType="keyword">
+			<dynamic-content><![CDATA[#]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Exploring <br />New Paths.]]></dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element instance-id="slides3" name="slides" type="text" dataType="string" indexType="keyword">
+		<dynamic-element instance-id="image3" name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=1920_1080_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="desc3" name="desc" type="text" dataType="string" indexType="keyword">
+			<dynamic-content><![CDATA[Unify v2.0 Template is available for download now! ]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="link_text3" name="link_text" type="text" dataType="string" indexType="keyword">
+			<dynamic-content><![CDATA[PURCHASE UNIFY]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="link3" name="link" type="text" dataType="string" indexType="keyword">
+			<dynamic-content><![CDATA[#]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Experience the <br />Revolution.]]></dynamic-content>
+	</dynamic-element> 
+</root>

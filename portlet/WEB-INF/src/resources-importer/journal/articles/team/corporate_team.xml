@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US"> 
+	<dynamic-element name="title" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		MEET OUR TEAM
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="description" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		We are a creative studio focusing on culture, luxury, editorial &amp; art. 
+        		Somewhere between sophistication and simplicity.	
+       		]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="members" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">
+	        			leyla@gmail.com
+        			</em>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_450_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Leyla Watson]]></dynamic-content>
+	</dynamic-element> 
+	
+	
+	<dynamic-element name="members" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">
+	        			krueger@gmail.com
+        			</em>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_450_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Tina Krueger]]></dynamic-content>
+	</dynamic-element> 
+	
+	
+	<dynamic-element name="members" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">
+	        			case@gmail.com
+        			</em>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_450_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[David Case]]></dynamic-content>
+	</dynamic-element> 
+	
+	
+	<dynamic-element name="members" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">
+	        			lisbon@gmail.com
+        			</em>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_450_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Sara Lisbon]]></dynamic-content>
+	</dynamic-element> 
+	
+</root>

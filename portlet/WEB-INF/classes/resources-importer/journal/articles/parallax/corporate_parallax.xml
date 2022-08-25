@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US"> 
+	<dynamic-element name="title" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		If you can design one thing 
+				<span class="g-color-primary g-font-weight-700">you can design</span> 
+				everything. Just believe it. 
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+		
+	<dynamic-element name="desc"  type="text_area" index-type="keyword" index="0">
+		<dynamic-content><![CDATA[
+           	- Kathy Reyes -
+		]]></dynamic-content>
+	</dynamic-element>
+		
+	<dynamic-element instance-id="image1" name="image" type="image" index-type="keyword">
+		<dynamic-content><![CDATA[{"data":"[$FILE=720_299_img1.jpg$]"}]]></dynamic-content>
+	</dynamic-element>
+</root>

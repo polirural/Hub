@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US"> 
+	<dynamic-element name="title" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		WHAT PEOPLE SAY?
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="description" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		We are a creative studio focusing on culture, luxury, editorial &amp; art. 
+        		Somewhere between sophistication and simplicity.	
+       		]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="members" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="job" type="text" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ Customer]]>
+			</dynamic-content>
+		</dynamic-element>
+		
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<blockquote class="lead g-mb-15">Hi there purchased a couple of days ago and the site looks 
+	        		great, big thanks to the htmlstream guys, they gave me some great.</blockquote>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=100_100_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Alex Pottorf]]></dynamic-content>
+	</dynamic-element> 
+	
+	
+	<dynamic-element name="members" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="job" type="text" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ Customer]]>
+			</dynamic-content>
+		</dynamic-element>
+		
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<blockquote class="lead g-mb-15">Hi there purchased a couple of days ago and the site looks 
+	        		great, big thanks to the htmlstream guys, they gave me some great.</blockquote>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=100_100_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Angela Danil]]></dynamic-content>
+	</dynamic-element> 
+	
+	<dynamic-element name="members" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="job" type="text" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ Customer]]>
+			</dynamic-content>
+		</dynamic-element>
+		
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<blockquote class="lead g-mb-15">Hi there purchased a couple of days ago and the site looks 
+	        		great, big thanks to the htmlstream guys, they gave me some great.</blockquote>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=100_100_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Alex Pottorf]]></dynamic-content>
+	</dynamic-element> 
+	
+	<dynamic-element name="members" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="job" type="text" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ Customer]]>
+			</dynamic-content>
+		</dynamic-element>
+		
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<blockquote class="lead g-mb-15">Hi there purchased a couple of days ago and the site looks 
+	        		great, big thanks to the htmlstream guys, they gave me some great.</blockquote>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		
+		<dynamic-element name="image" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=100_100_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Angela Danil]]></dynamic-content>
+	</dynamic-element> 
+	 
+	
+</root>

@@ -1,0 +1,1173 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="content" type="text_area" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+		   
+    <section>
+      <!-- Footer #01 -->
+      <section class="g-pt-100">
+        <div class="container">
+          <div class="text-center g-mb-60">
+            <h2 class="h4">Footer
+              <span class="g-color-primary g-ml-5">#01</span>
+            </h2>
+          </div>
+        </div>
+
+        <div id="shortcode1">
+          <div class="shortcode-html">
+            <!-- Footer -->
+            <footer class="g-bg-black-opacity-0_9 g-color-white-opacity-0_6 g-py-60">
+              <div class="container">
+                <div class="row">
+                  <!-- Footer Content -->
+                  <div class="col-lg-4 g-mb-50 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Contact Us</h2>
+                    <div class="g-mb-25">
+                      <p>Dolor sit amet, consectetur adipiscing elit. Proin vitae est lorem. Aenean imperdiet nisi a dolor condimentum.</p>
+                    </div>
+
+                    <address class="g-mb-20">
+                      <ul class="list-unstyled">
+                        <li class="d-flex align-items-baseline g-mb-12">
+                          <i class="fa fa-map-marker g-mr-10"></i>
+                          <span>25, Lorem Lis Street, Orange California, US</span>
+                        </li>
+                        <li class="d-flex align-items-baseline g-mb-12">
+                          <i class="fa fa-phone g-mr-10"></i>
+                          <span>Phone: (+123) 456 7890</span>
+                        </li>
+                        <li class="d-flex align-items-baseline g-mb-12">
+                          <i class="fa fa-envelope g-mr-10"></i>
+                          <span>Email:
+                            <a class="g-color-white-opacity-0_8" href="mailto:info@htmlstream.com">info@htmlstream.com</a>
+                          </span>
+                        </li>
+                      </ul>
+                    </address>
+
+                    <ul class="list-inline mb-0">
+                      <li class="list-inline-item">
+                        <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#">
+                          <i class="fa fa-twitter"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mx-5">
+                        <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#">
+                          <i class="fa fa-pinterest"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mx-5">
+                        <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#">
+                          <i class="fa fa-facebook"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mx-5">
+                        <a class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#">
+                          <i class="fa fa-instagram"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-lg-4 g-mb-30 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Useful Links</h2>
+                    <div class="row">
+                      <div class="col-sm-6">
+                        <ul class="list-unstyled g-mb-30 g-mb-0--md">
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">About Us</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Our Services</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Terms</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Privacy Policy</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Licenses</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Help Center</a>
+                          </li>
+                          <li class="d-flex">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">FAQ</a>
+                          </li>
+                        </ul>
+                      </div>
+
+                      <div class="col-sm-6">
+                        <ul class="list-unstyled mb-0">
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Blog</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Community</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Forums</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Advertise</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Freebies</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Pricing and Plans</a>
+                          </li>
+                          <li class="d-flex">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Careers</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-lg-4">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Subscribe</h2>
+                    <div class="g-mb-25">
+                      <p>Subscribe to our newsletter and stay up to date with the latest news and deals! Aenean imperdiet nisi a dolor condimentum.</p>
+                    </div>
+
+                    <form>
+                      <div class="row">
+                        <div class="col-md-8 col-lg-12">
+                          <div class="form-group g-mb-20">
+                            <input class="form-control g-color-white g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_1 g-rounded-50 g-px-20 g-py-12" type="email" placeholder="Your Email">
+                          </div>
+                        </div>
+
+                        <div class="col-md-4 col-lg-12">
+                          <button class="btn u-btn-primary btn-block g-font-size-12 text-uppercase g-font-weight-600 g-rounded-50 g-py-15 g-px-35" type="submit" role="button">View our best offers</button>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                  <!-- End Footer Content -->
+                </div>
+              </div>
+            </footer>
+            <!-- End Footer -->
+          </div>
+        </div>
+
+
+
+
+        <!-- Show Code -->
+        <div class="g-font-size-12 g-my-30 text-center">
+          <a class="js-modal-markup u-link-v5  g-color-main  g-color-primary--hover g-mr-15" href="#" data-content-target="#shortcode1" data-modal-target="#modalMarkup" data-modal-effect="fadein">
+            <i class="fa fa-code"></i>
+            Show code
+          </a>
+          <a class="js-copy u-link-v5  g-color-main  g-color-primary--hover" href="#" data-content-target="#shortcode1" data-success-text="Copied">
+            <i class="fa fa-clone"></i>
+            Copy code
+          </a>
+        </div>
+        <!-- End Show Code -->
+
+      </section>
+      <!-- End Footer #01 -->
+
+      <hr class="g-brd-gray-light-v4 my-0">
+
+      <!-- Footer #02 -->
+      <section class="g-pt-70">
+        <div class="container">
+          <div class="text-center g-mb-60">
+            <h2 class="h4">Footer
+              <span class="g-color-primary g-ml-5">#02</span>
+            </h2>
+          </div>
+        </div>
+
+        <div id="shortcode2">
+          <div class="shortcode-html">
+            <!-- Footer -->
+            <footer class="g-bg-black-opacity-0_9 g-color-white-opacity-0_6 g-py-60">
+              <div class="container">
+                <div class="row g-mb-50">
+                  <!-- Footer Content -->
+                  <div class="col-md-4 col-lg-2">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-15">About</h2>
+                    <ul class="list-unstyled g-mb-30">
+                      <li class="d-flex g-mb-10">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">About Us</a>
+                      </li>
+                      <li class="d-flex g-mb-10">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">News</a>
+                      </li>
+                      <li class="d-flex g-mb-10">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Events</a>
+                      </li>
+                      <li class="d-flex">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Portfolio</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-md-4 col-lg-2">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-15">Links</h2>
+                    <ul class="list-unstyled g-mb-30">
+                      <li class="d-flex g-mb-10">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Fusce mollis blandit</a>
+                      </li>
+                      <li class="d-flex g-mb-10">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Praesentnec conse</a>
+                      </li>
+                      <li class="d-flex g-mb-10">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Morbi massa justo</a>
+                      </li>
+                      <li class="d-flex">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Gravida pulvinar</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-md-4 col-lg-2">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-15">Other Links</h2>
+                    <ul class="list-unstyled g-mb-30">
+                      <li class="d-flex g-mb-10">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Morbi massa justo</a>
+                      </li>
+                      <li class="d-flex g-mb-10">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Praesent consecteth</a>
+                      </li>
+                      <li class="d-flex g-mb-10">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Fusce devos</a>
+                      </li>
+                      <li class="d-flex">
+                        <i class="fa fa-circle g-font-size-8 g-mt-7 g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Cras volutpat leo</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-lg-6">
+                    <ul class="u-list-inline d-flex flex-wrap g-mr-minus-20 mb-0">
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-20 g-mb-20">
+                        <a href="#">
+                          <img class="g-width-70 g-height-70" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+                </div>
+
+                <!-- Copyright -->
+                <div class="row align-items-center">
+                  <div class="col-md-6 g-mb-15 g-mb-0--md">
+                    <small class="g-font-size-default mb-0">&copy; 2019 All right reserved. Development by
+                      <a class="g-color-primary g-color-primary--hover" href="#">Htmlstream</a>
+                    </small>
+                  </div>
+
+                  <div class="col-md-6">
+                    <ul class="list-inline text-md-right mb-0">
+                      <li class="list-inline-item g-mx-5">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white" href="#">
+                          <i class="fa fa-twitter"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mx-5">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white" href="#">
+                          <i class="fa fa-pinterest"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mx-5">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white" href="#">
+                          <i class="fa fa-facebook"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mx-5">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white" href="#">
+                          <i class="fa fa-instagram"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <!-- End Copyright -->
+              </div>
+            </footer>
+            <!-- End Footer -->
+          </div>
+        </div>
+
+
+
+
+        <!-- Show Code -->
+        <div class="g-font-size-12 g-my-30 text-center">
+          <a class="js-modal-markup u-link-v5  g-color-main  g-color-primary--hover g-mr-15" href="#" data-content-target="#shortcode2" data-modal-target="#modalMarkup" data-modal-effect="fadein">
+            <i class="fa fa-code"></i>
+            Show code
+          </a>
+          <a class="js-copy u-link-v5  g-color-main  g-color-primary--hover" href="#" data-content-target="#shortcode2" data-success-text="Copied">
+            <i class="fa fa-clone"></i>
+            Copy code
+          </a>
+        </div>
+        <!-- End Show Code -->
+
+      </section>
+      <!-- End Footer #02 -->
+
+      <hr class="g-brd-gray-light-v4 my-0">
+
+      <!-- Footer #03 -->
+      <section class="g-pt-70">
+        <div class="container">
+          <div class="text-center g-mb-60">
+            <h2 class="h4">Footer
+              <span class="g-color-primary g-ml-5">#03</span>
+            </h2>
+          </div>
+        </div>
+
+        <div id="shortcode3">
+          <div class="shortcode-html">
+            <!-- Footer -->
+            <footer class="g-bg-black-opacity-0_9 g-color-white-opacity-0_6 g-py-60">
+              <div class="container">
+                <div class="row">
+                  <!-- Footer Content -->
+                  <div class="col-lg-4 g-mb-50 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">About Us</h2>
+                    <div class="g-mb-25">
+                      <p>Unify consectetur adipiscing elit. Proin vitae est lorem. Aenean imperdiet nisi a dolor condimentum. Aenean imperdiet nisi a dolor condimentum, id ullamcorper lacus vestibulum. Praesent pulvinar gravida.</p>
+                    </div>
+
+                    <ul class="list-inline mb-0">
+                      <li class="list-inline-item">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#">
+                          <i class="fa fa-twitter"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mx-5">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#">
+                          <i class="fa fa-pinterest"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mx-5">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#">
+                          <i class="fa fa-facebook"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mx-5">
+                        <a class="u-icon-v3 u-icon-size--sm g-font-size-default g-bg-white-opacity-0_1 g-bg-primary--hover g-color-white-opacity-0_8 rounded" href="#">
+                          <i class="fa fa-instagram"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-lg-4 g-mb-30 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Useful Links</h2>
+                    <div class="row">
+                      <div class="col-sm-6">
+                        <ul class="list-unstyled g-mb-30 g-mb-0--md">
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">About Us</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Our Services</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Terms</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Privacy Policy</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Licenses</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Help Center</a>
+                          </li>
+                          <li class="d-flex">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">FAQ</a>
+                          </li>
+                        </ul>
+                      </div>
+
+                      <div class="col-sm-6">
+                        <ul class="list-unstyled mb-0">
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Blog</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Community</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Forums</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Advertise</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Freebies</a>
+                          </li>
+                          <li class="d-flex g-mb-12">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Pricing and Plans</a>
+                          </li>
+                          <li class="d-flex">
+                            <i class="fa fa-circle g-color-primary g-font-size-5 g-mt-10 g-mr-8"></i>
+                            <a class="g-color-white-opacity-0_6 g-color-primary--hover" href="#">Careers</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-lg-4">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Subscribe</h2>
+
+                    <form class="g-mt-25">
+                      <div class="row">
+                        <div class="col-md-8 col-lg-12">
+                          <div class="form-group g-mb-20">
+                            <input class="form-control g-color-white g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_1 g-brd-primary--focus g-px-20 g-py-12" type="text" placeholder="Your Name">
+                          </div>
+                          <div class="form-group g-mb-20">
+                            <input class="form-control g-color-white g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_1 g-brd-primary--focus g-px-20 g-py-12" type="email" placeholder="Your Email">
+                          </div>
+                        </div>
+
+                        <div class="col-md-4 col-lg-12">
+                          <button class="btn btn-md u-btn-primary g-font-size-12 text-uppercase rounded g-py-11 g-px-30" type="submit" role="button">Subscribe</button>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                  <!-- End Footer Content -->
+                </div>
+              </div>
+            </footer>
+            <!-- End Footer -->
+          </div>
+        </div>
+
+
+
+
+        <!-- Show Code -->
+        <div class="g-font-size-12 g-my-30 text-center">
+          <a class="js-modal-markup u-link-v5  g-color-main  g-color-primary--hover g-mr-15" href="#" data-content-target="#shortcode3" data-modal-target="#modalMarkup" data-modal-effect="fadein">
+            <i class="fa fa-code"></i>
+            Show code
+          </a>
+          <a class="js-copy u-link-v5  g-color-main  g-color-primary--hover" href="#" data-content-target="#shortcode3" data-success-text="Copied">
+            <i class="fa fa-clone"></i>
+            Copy code
+          </a>
+        </div>
+        <!-- End Show Code -->
+
+      </section>
+      <!-- End Footer #03 -->
+
+      <hr class="g-brd-gray-light-v4 my-0">
+
+      <!-- Footer #04 -->
+      <section class="g-pt-100">
+        <div class="container">
+          <div class="text-center g-mb-60">
+            <h2 class="h4">Footer
+              <span class="g-color-primary g-ml-5">#04</span>
+            </h2>
+          </div>
+        </div>
+
+        <div id="shortcode4">
+          <div class="shortcode-html">
+            <!-- Footer -->
+            <footer class="g-bg-black-opacity-0_9 g-color-white-opacity-0_6 g-py-60">
+              <div class="container">
+                <div class="row">
+                  <!-- Footer Content -->
+                  <div class="col-lg-3 g-mb-40 g-mb-0--lg">
+                    <a class="d-block g-mb-20" href="index.html">
+                      <img class="img-fluid g-opacity-0_6 g-mb-5" src="[$FILE=logo_3.png$]" alt="Logo">
+                    </a>
+
+                    <div class="g-mb-20">
+                      <p>About Unify dolor sit amet, consec tetur adipiscing elit. Maecenas eget nisl id libero tincidunt.</p>
+                    </div>
+
+                    <ul class="list-inline mb-0">
+                      <li class="list-inline-item g-mr-10">
+                        <a class="u-icon-v3 u-icon-size--xs g-color-white g-color-primary--hover g-bg-white-opacity-0_1 g-bg-white--hover" href="#">
+                          <i class="fa fa-facebook"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-10">
+                        <a class="u-icon-v3 u-icon-size--xs g-color-white g-color-primary--hover g-bg-white-opacity-0_1 g-bg-white--hover" href="#">
+                          <i class="fa fa-instagram"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-10">
+                        <a class="u-icon-v3 u-icon-size--xs g-color-white g-color-primary--hover g-bg-white-opacity-0_1 g-bg-white--hover" href="#">
+                          <i class="fa fa-twitter"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-10">
+                        <a class="u-icon-v3 u-icon-size--xs g-color-white g-color-primary--hover g-bg-white-opacity-0_1 g-bg-white--hover" href="#">
+                          <i class="fa fa-dribbble"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-lg-4 g-mb-40 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Latest Posts</h2>
+                    <article class="media">
+                      <a class="d-flex g-mt-4 mr-3" href="#">
+                        <img class="g-width-80 g-height-80" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                      </a>
+
+                      <div class="media-body align-self-center">
+                        <ul class="list-inline g-font-size-12 g-mb-10">
+                          <li class="list-inline-item">June 09, 2017</li>
+                          <li class="list-inline-item">/</li>
+                          <li class="list-inline-item">
+                            <a class="u-link-v5 g-color-white-opacity-0_8 g-color-white--hover" href="#">
+                              <i class="fa fa-comments-o"></i>
+                              12
+                            </a>
+                          </li>
+                        </ul>
+
+                        <h3 class="h6 mb-0">
+                          <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#">Top 7 luxury places to visit around Victoria, BC</a>
+                        </h3>
+                      </div>
+                    </article>
+
+                    <hr class="g-brd-white-opacity-0_1 g-mt-15 g-mb-10">
+
+                    <article class="media">
+                      <a class="d-flex g-mt-4 mr-3" href="#">
+                        <img class="g-width-80 g-height-80" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                      </a>
+
+                      <div class="media-body align-self-center">
+                        <ul class="list-inline g-font-size-12 g-mb-10">
+                          <li class="list-inline-item">July 30, 2017</li>
+                          <li class="list-inline-item">/</li>
+                          <li class="list-inline-item">
+                            <a class="u-link-v5 g-color-white-opacity-0_8 g-color-white--hover" href="#">
+                              <i class="fa fa-comments-o"></i>
+                              18
+                            </a>
+                          </li>
+                        </ul>
+
+                        <h3 class="h6 mb-0">
+                          <a class="g-color-white-opacity-0_8 g-color-white--hover" href="#">Coding week, 10 best premium templates</a>
+                        </h3>
+                      </div>
+                    </article>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-md-6 col-lg-2 g-mb-30 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Useful Links</h2>
+                    <ul class="list-unstyled mb-0">
+                      <li class="d-flex align-items-baseline g-mb-12">
+                        <i class="fa fa-angle-double-right g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-white--hover" href="#">Blog</a>
+                      </li>
+                      <li class="d-flex align-items-baseline g-mb-12">
+                        <i class="fa fa-angle-double-right g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-white--hover" href="#">Support</a>
+                      </li>
+                      <li class="d-flex align-items-baseline g-mb-12">
+                        <i class="fa fa-angle-double-right g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-white--hover" href="#">Community</a>
+                      </li>
+                      <li class="d-flex align-items-baseline g-mb-12">
+                        <i class="fa fa-angle-double-right g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-white--hover" href="#">Pricing/Plans</a>
+                      </li>
+                      <li class="d-flex align-items-baseline g-mb-12">
+                        <i class="fa fa-angle-double-right g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-white--hover" href="#">UI Freebies</a>
+                      </li>
+                      <li class="d-flex align-items-baseline">
+                        <i class="fa fa-angle-double-right g-mr-8"></i>
+                        <a class="g-color-white-opacity-0_6 g-color-white--hover" href="#">Careers</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-md-6 col-lg-3">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-700 g-mb-20">Some Photos</h2>
+
+                    <ul class="u-list-inline d-flex flex-wrap g-mr-minus-15">
+                      <li class="list-inline-item g-mr-10 g-mb-10">
+                        <a class="u-block-hover" href="#">
+                          <img class="u-block-hover__main--grayscale g-width-80 g-height-80" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-10 g-mb-10">
+                        <a class="u-block-hover" href="#">
+                          <img class="u-block-hover__main--grayscale g-width-80 g-height-80" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-10 g-mb-10">
+                        <a class="u-block-hover" href="#">
+                          <img class="u-block-hover__main--grayscale g-width-80 g-height-80" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-10 g-mb-10">
+                        <a class="u-block-hover" href="#">
+                          <img class="u-block-hover__main--grayscale g-width-80 g-height-80" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-10 g-mb-10">
+                        <a class="u-block-hover" href="#">
+                          <img class="u-block-hover__main--grayscale g-width-80 g-height-80" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                      <li class="list-inline-item g-mr-10 g-mb-10">
+                        <a class="u-block-hover" href="#">
+                          <img class="u-block-hover__main--grayscale g-width-80 g-height-80" src="[$FILE=100_100_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+                </div>
+              </div>
+            </footer>
+            <!-- End Footer -->
+          </div>
+        </div>
+
+
+
+
+        <!-- Show Code -->
+        <div class="g-font-size-12 g-my-30 text-center">
+          <a class="js-modal-markup u-link-v5  g-color-main  g-color-primary--hover g-mr-15" href="#" data-content-target="#shortcode4" data-modal-target="#modalMarkup" data-modal-effect="fadein">
+            <i class="fa fa-code"></i>
+            Show code
+          </a>
+          <a class="js-copy u-link-v5  g-color-main  g-color-primary--hover" href="#" data-content-target="#shortcode4" data-success-text="Copied">
+            <i class="fa fa-clone"></i>
+            Copy code
+          </a>
+        </div>
+        <!-- End Show Code -->
+
+      </section>
+
+      <hr class="g-brd-gray-light-v4 my-0">
+
+      <!-- Footer #05 -->
+      <section class="g-pt-100">
+        <div class="container">
+          <div class="text-center g-mb-50">
+            <h2 class="h4">Footer
+              <span class="g-color-primary g-ml-5">#05</span>
+            </h2>
+          </div>
+        </div>
+
+        <div id="shortcode5">
+          <div class="shortcode-html">
+            <!-- Footer -->
+            <footer class="g-bg-black-opacity-0_9 g-color-white-opacity-0_8 text-center g-pt-60 g-pb-40">
+              <!-- Footer Content -->
+              <div class="container">
+                <a class="d-block g-width-200 g-opacity-0_5 mx-auto g-mb-30" href="index.html">
+                  <img class="img-fluid" src="[$FILE=logo_3.png$]" alt="Logo">
+                </a>
+
+                <ul class="list-inline g-mb-20">
+                  <li class="list-inline-item g-mx-5">
+                    <a class="u-icon-v2 u-icon-size--sm g-font-size-16 g-color-white-opacity-0_8 g-color-white--hover g-bg-primary--hover g-brd-white-opacity-0_2 g-brd-primary--hover rounded-circle" href="#">
+                      <i class="fa fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li class="list-inline-item g-mx-5">
+                    <a class="u-icon-v2 u-icon-size--sm g-font-size-16 g-color-white-opacity-0_8 g-color-white--hover g-bg-primary--hover g-brd-white-opacity-0_2 g-brd-primary--hover rounded-circle" href="#">
+                      <i class="fa fa-pinterest-p"></i>
+                    </a>
+                  </li>
+                  <li class="list-inline-item g-mx-5">
+                    <a class="u-icon-v2 u-icon-size--sm g-font-size-16 g-color-white-opacity-0_8 g-color-white--hover g-bg-primary--hover g-brd-white-opacity-0_2 g-brd-primary--hover rounded-circle" href="#">
+                      <i class="fa fa-facebook"></i>
+                    </a>
+                  </li>
+                  <li class="list-inline-item g-mx-5">
+                    <a class="u-icon-v2 u-icon-size--sm g-font-size-16 g-color-white-opacity-0_8 g-color-white--hover g-bg-primary--hover g-brd-white-opacity-0_2 g-brd-primary--hover rounded-circle" href="#">
+                      <i class="fa fa-linkedin"></i>
+                    </a>
+                  </li>
+                </ul>
+
+                <div class="g-width-70x--md mx-auto">
+                  <p class="mb-0">Fusce dolor libero, efficitur et lobortis at, faucibus nec nunc. Proin fermentum turpis eget nisi facilisis lobortis. Praesent malesuada facilisis maximus. Donec sed lobortis tortor.</p>
+                </div>
+              </div>
+              <!-- End Footer Content -->
+
+              <hr class="g-brd-white-opacity-0_2 g-my-40">
+
+              <!-- Footer Content -->
+              <div class="container">
+                <div class="row">
+                  <!-- Footer Content -->
+                  <div class="col-sm-6 col-lg g-mb-30 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-600 g-mb-20">Categories</h2>
+                    <ul class="list-unstyled mb-0">
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Proin vitae est lorem</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Aenean imperdiet nisi</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Praesent pulvinar gravida</a>
+                      </li>
+                      <li>
+                        <a class="g-color-white-opacity-0_8" href="#">Integer commodo est</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-sm-6 col-lg g-mb-30 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-600 g-mb-20">Customer Support</h2>
+                    <ul class="list-unstyled mb-0">
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Vivamus egestas sapien</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Sed convallis nec enim</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Pellentesque a tristique risus</a>
+                      </li>
+                      <li>
+                        <a class="g-color-white-opacity-0_8" href="#">Nunc vitae libero lacus</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-sm-6 col-lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-600 g-mb-20">Top Link</h2>
+                    <ul class="list-unstyled mb-0">
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Pellentesque a tristique risus</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Nunc vitae libero lacus</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Praesent pulvinar gravida</a>
+                      </li>
+                      <li>
+                        <a class="g-color-white-opacity-0_8" href="#">Integer commodo est</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-sm-6 col-lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-600 g-mb-20">Useful Links</h2>
+                    <ul class="list-unstyled mb-0">
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Praesent pulvinar gravida</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Integer commodo est</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Praesent pulvinar gravida</a>
+                      </li>
+                      <li>
+                        <a class="g-color-white-opacity-0_8" href="#">Integer commodo est</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+                </div>
+              </div>
+              <!-- End Footer Content -->
+
+              <hr class="g-brd-white-opacity-0_2 g-my-40">
+
+              <!-- Copyright -->
+              <div class="container">
+                <small class="g-font-size-default">2018 All right reserved. Unify Development by <a class="g-color-white" href="#">Htmlstream</a>
+                </small>
+              </div>
+              <!-- End Copyright -->
+            </footer>
+            <!-- End Footer -->
+          </div>
+        </div>
+
+
+
+
+        <!-- Show Code -->
+        <div class="g-font-size-12 g-my-30 text-center">
+          <a class="js-modal-markup u-link-v5  g-color-main  g-color-primary--hover g-mr-15" href="#" data-content-target="#shortcode5" data-modal-target="#modalMarkup" data-modal-effect="fadein">
+            <i class="fa fa-code"></i>
+            Show code
+          </a>
+          <a class="js-copy u-link-v5  g-color-main  g-color-primary--hover" href="#" data-content-target="#shortcode5" data-success-text="Copied">
+            <i class="fa fa-clone"></i>
+            Copy code
+          </a>
+        </div>
+        <!-- End Show Code -->
+
+      </section>
+      <!-- End Footer #05 -->
+
+      <hr class="g-brd-gray-light-v4 my-0">
+
+      <!-- Footer #06 -->
+      <section class="g-pt-100">
+        <div class="container">
+          <div class="text-center g-mb-50">
+            <h2 class="h4">Footer
+              <span class="g-color-primary g-ml-5">#06</span>
+            </h2>
+          </div>
+        </div>
+
+        <div id="shortcode6">
+          <div class="shortcode-html">
+            <!-- Footer -->
+            <footer class="g-bg-black-opacity-0_9 g-color-white-opacity-0_8 g-py-50">
+              <div class="container">
+                <!-- Subscribe -->
+                <form>
+                  <div class="g-width-780 mx-auto">
+                    <div class="row">
+                      <div class="col-md-6 col-lg-5 g-mb-30 g-mb-0--lg">
+                        <input class="form-control form-control-lg g-font-size-default g-color-white g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_2 g-rounded-30 g-px-15 g-py-13" type="text" placeholder="Your Email">
+                      </div>
+
+                      <div class="col-md-6 col-lg-5 g-mb-30 g-mb-0--lg">
+                        <input class="form-control form-control-lg g-font-size-default g-color-white g-bg-transparent g-bg-transparent--focus g-brd-white-opacity-0_2 g-rounded-30 g-px-15 g-py-13" type="password" placeholder="Your Name">
+                      </div>
+
+                      <div class="col-md-12 col-lg-2 text-md-right text-lg-left">
+                        <button class="btn u-btn-primary text-uppercase g-rounded-30 g-px-25 g-py-13" type="submit">Subscribe</button>
+                      </div>
+                    </div>
+                  </div>
+                </form>
+                <!-- End Subscribe -->
+
+                <hr class="g-brd-gray-dark-v2 g-my-50">
+
+                <!-- Footer Content -->
+                <div class="row">
+                  <!-- Footer Content -->
+                  <div class="col-md-12 col-lg-4 g-mb-25 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-600 g-mb-20">Text widget</h2>
+
+                    <div class="g-mb-20">
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae est lorem. Aenean imperdiet nisi a dolor condimentum, id ullamcorper lacus vestibulum. Praesent pulvinar gravida. Aenean lobortis ante ac porttitor eleifend.</p>
+                    </div>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-sm-6 col-lg g-mb-25 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-600 g-mb-20">Categories</h2>
+                    <ul class="list-unstyled">
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Proin vitae est lorem</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Aenean imperdiet nisi</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Praesent pulvinar gravida</a>
+                      </li>
+                      <li>
+                        <a class="g-color-white-opacity-0_8" href="#">Integer commodo est</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-sm-6 col-lg g-mb-25 g-mb-0--lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-600 g-mb-20">Customer Support</h2>
+                    <ul class="list-unstyled">
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Vivamus egestas sapien</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Sed convallis nec enim</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Pellentesque a tristique risus</a>
+                      </li>
+                      <li>
+                        <a class="g-color-white-opacity-0_8" href="#">Nunc vitae libero lacus</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-sm-6 col-lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-600 g-mb-20">Top Link</h2>
+                    <ul class="list-unstyled">
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Pellentesque a tristique risus</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Nunc vitae libero lacus</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Praesent pulvinar gravida</a>
+                      </li>
+                      <li>
+                        <a class="g-color-white-opacity-0_8" href="#">Integer commodo est</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+
+                  <!-- Footer Content -->
+                  <div class="col-sm-6 col-lg">
+                    <h2 class="h6 g-color-white text-uppercase g-font-weight-600 g-mb-20">Useful Links</h2>
+                    <ul class="list-unstyled">
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Praesent pulvinar gravida</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Integer commodo est</a>
+                      </li>
+                      <li class="g-mb-8">
+                        <a class="g-color-white-opacity-0_8" href="#">Praesent pulvinar gravida</a>
+                      </li>
+                      <li>
+                        <a class="g-color-white-opacity-0_8" href="#">Integer commodo est</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- End Footer Content -->
+                </div>
+                <!-- End Footer Content -->
+
+                <hr class="g-brd-gray-dark-v2 g-my-50">
+
+                <!-- Copyright -->
+                <div class="row">
+                  <div class="col-md-6 d-flex align-items-center g-mb-15 g-mb-0--md">
+                    <small class="g-font-size-default"> 2018 All right reserved. Development by <a class="g-color-white" href="#">Htmlstream</a>
+                    </small>
+                  </div>
+
+                  <div class="col-md-6">
+                    <ul class="list-inline text-md-right mb-0">
+                      <li class="list-inline-item">
+                        <a class="u-icon-v2 u-icon-size--xs g-color-white-opacity-0_8 g-color-white--hover g-bg-primary--hover g-brd-white-opacity-0_2 g-brd-primary--hover rounded" href="#">
+                          <i class="fa fa-twitter"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item">
+                        <a class="u-icon-v2 u-icon-size--xs g-color-white-opacity-0_8 g-color-white--hover g-bg-primary--hover g-brd-white-opacity-0_2 g-brd-primary--hover rounded" href="#">
+                          <i class="fa fa-facebook"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item">
+                        <a class="u-icon-v2 u-icon-size--xs g-color-white-opacity-0_8 g-color-white--hover g-bg-primary--hover g-brd-white-opacity-0_2 g-brd-primary--hover rounded" href="#">
+                          <i class="fa fa-linkedin"></i>
+                        </a>
+                      </li>
+                      <li class="list-inline-item">
+                        <a class="u-icon-v2 u-icon-size--xs g-color-white-opacity-0_8 g-color-white--hover g-bg-primary--hover g-brd-white-opacity-0_2 g-brd-primary--hover rounded" href="#">
+                          <i class="fa fa-instagram"></i>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <!-- End Copyright -->
+              </div>
+            </footer>
+            <!-- End Footer -->
+          </div>
+        </div>
+
+
+
+
+        <!-- Show Code -->
+        <div class="g-font-size-12 g-my-30 text-center">
+          <a class="js-modal-markup u-link-v5  g-color-main  g-color-primary--hover g-mr-15" href="#" data-content-target="#shortcode6" data-modal-target="#modalMarkup" data-modal-effect="fadein">
+            <i class="fa fa-code"></i>
+            Show code
+          </a>
+          <a class="js-copy u-link-v5  g-color-main  g-color-primary--hover" href="#" data-content-target="#shortcode6" data-success-text="Copied">
+            <i class="fa fa-clone"></i>
+            Copy code
+          </a>
+        </div>
+        <!-- End Show Code -->
+
+      </section>
+      <!-- End Footer #06 -->
+
+      <hr class="g-brd-gray-light-v4 my-0">
+      <div id="modalMarkup" class="text-left modal-demo g-width-95x g-height-95x g-bg-white g-color-black g-pa-20" style="display: none;"></div>
+      
+ </section>
+ 
+
+<script>
+	(function loopFooter() {
+		setTimeout(function () {
+			if($.HSCore != undefined && $.HSCore.components.HSTextSlideshow != undefined ){
+				$.HSCore.helpers.HSModalMarkup.init('.js-modal-markup');
+  
+				$.HSCore.components.HSMarkupCopy.init('.js-copy');
+			}else{
+				loopFooter()
+			}
+		  }, 1000);
+	}());
+</script>
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+</root>
+            

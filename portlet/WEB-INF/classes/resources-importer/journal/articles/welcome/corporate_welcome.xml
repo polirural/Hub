@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="title" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		<span class="d-block g-color-gray-dark-v3 g-font-weight-700 g-font-size-13 text-uppercase">Welcome to</span>
+				<h2 class="h1 g-color-black g-font-weight-700 text-uppercase">Unify Template</h2> 
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="description" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		<p class="lead">
+        			As creatives, it's important that we strive to do work outside of obligation. 
+        			This lets us stay ahead of the curve for our clients and internal projects. 
+        			We strive to embrace and drive change in our industry which allows us to keep our clients 
+        			relevant and ready to adapt.
+				</p> 
+				<p class="lead">
+					Working together on the daily requires each individual to let the greater good of the 
+					team's work surface above their own ego.
+				</p> 
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="image" type="image" index-type="keyword">
+		<dynamic-content><![CDATA[{"data":"[$FILE=770_502_img1.png$]"}]]></dynamic-content>
+	</dynamic-element>
+</root>
+            

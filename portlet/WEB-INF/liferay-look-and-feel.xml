@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE look-and-feel PUBLIC "-//Liferay//DTD Look and Feel 7.1.0//EN" "http://www.liferay.com/dtd/liferay-look-and-feel_7_1_0.dtd">
+
+<look-and-feel>
+	<compatibility>
+		<version>7.1.0+</version>
+	</compatibility>
+	<theme id="unify-corporate" name="unify-corporate">
+		<template-extension>ftl</template-extension>
+		<settings>
+			<setting configurable="true" key="header" type="select" value="White_BG" options="White_BG,Dark_BG,Primary_BG,Gradient_BG,Transparent_BG,SemiTransparent_white_BG,SemiTransparent_black_BG,Bordered_BG,Floating_White_BG,Floating_Dark_BG,Floating_Primary_BG,Floating_Gradient_BG"/>
+			<setting configurable="true" key="nav_styles" type="select" value="default" options="default,style_1,style_2,style_3,style_4,style_5,style_6,style_7,style_8"/>
+			<setting configurable="true" key="nav_full_width" type="checkbox" value="false"/>
+			<setting configurable="true" key="nav_alignments" type="select" value="center" options="left,center,right"/>
+			<setting configurable="true" key="nav_position" type="select" value="Static" options="Static,Sticky_Top,Sticky_Bottom"/>
+			<setting configurable="true" key="show_topbar" type="checkbox" value="true"/>
+			<setting configurable="true" key="topbar_bg" type="select" value="black" options="black,white"/>
+			<setting configurable="true" key="topbar_content" type="text" value="TOP_HEADER_1"/>
+			<setting configurable="true" key="show_search_box" type="checkbox" value="true"/>
+			<setting configurable="true" key="show_language_choice" type="checkbox" value="true"/>
+			<setting configurable="true" key="footer_content" type="text" value="FOOTER_BASIC"/>
+			<setting configurable="true" key="use_unify_logo" type="checkbox" value="true"/>
+		</settings>
+		<portlet-decorator id="barebone" name="Barebone">
+			<portlet-decorator-css-class>portlet-barebone</portlet-decorator-css-class>
+		</portlet-decorator>
+		<portlet-decorator id="borderless" name="Borderless">
+			<portlet-decorator-css-class>portlet-borderless</portlet-decorator-css-class>
+		</portlet-decorator>
+		<portlet-decorator id="decorate" name="Decorate">
+			<default-portlet-decorator>true</default-portlet-decorator>
+			<portlet-decorator-css-class>portlet-decorate</portlet-decorator-css-class>
+		</portlet-decorator>
+	</theme>
+</look-and-feel>

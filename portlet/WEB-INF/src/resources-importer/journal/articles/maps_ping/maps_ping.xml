@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="markers" type="text" index-type="keyword" index="0">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget1]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[149]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[168]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget2]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[179]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[205]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget3]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[241]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[373]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget4]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[543]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[244]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget5]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[601]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[268]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget6]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[636]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[260]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget7]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[614]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[118]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget8]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[701]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[70.125]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget9]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[950]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[177]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget10]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[1079]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[463]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget11]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[717]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[455]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="markers" type="text" index-type="keyword" index="1">
+    	<dynamic-element name="image_url" type="image" index-type="keyword">
+			<dynamic-content><![CDATA[{"data":"[$FILE=400_270_img1.jpg$]"}]]></dynamic-content>
+		</dynamic-element>
+    	<dynamic-element name="date" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[17:48, April 27, 2015]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="location" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[South Africa]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Proin egestas purus eget12]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="coords" index="0" type="text" index-type="keyword">
+			<dynamic-element name="lat" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[625]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-element name="long" type="text" index-type="keyword" index="0">
+	    		<dynamic-content language-id="en_US">
+		        	<![CDATA[510]]>
+				</dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+        </dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+</root>
+            

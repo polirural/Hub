@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="title" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[Google Map Multiple Markers]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLat" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[-33.92]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataLng" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[151.25]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataMultipleMarkers" type="boolean" index-type="keyword" index="0">
+		<dynamic-element name="dataMarkersLocations" type="text" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA["[
+		       ['Bondi Beach', -33.890542, 151.274856, 4],
+		       ['Coogee Beach', -33.923036, 151.259052, 5],
+		       ['Cronulla Beach', -34.028249, 151.157507, 3],
+		       ['Manly Beach', -33.80010128657071, 151.28747820854187, 2],
+		       ['Maroubra Beach', -33.950198, 151.259302, 1]
+		     ]]]>
+			</dynamic-content>
+		</dynamic-element>
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[true]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="dataZoom" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US"><![CDATA[10]]></dynamic-content>
+	</dynamic-element>
+</root>
+            

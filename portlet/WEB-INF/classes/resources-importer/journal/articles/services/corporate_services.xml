@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US"> 
+	<dynamic-element name="title" type="text" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		OUR SERVICES
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="description" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		We are a creative studio focusing on culture, luxury, editorial &amp; art. 
+        		Somewhere between sophistication and simplicity.	
+       		]]>
+		</dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="services" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant and ready to adapt.</p>
+		            <div class="d-inline-block g-width-40 g-brd-bottom g-brd-gray-dark-v5 g-my-15"></div>
+			            <ul class="list-unstyled g-px-30 g-mb-0">
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Responsive Web Desgin</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">E-commerce</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">App &amp; Icon Design</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Logo &amp; Brand Design</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Mobile Development</li>
+			              <li class="g-py-8">UI/UX Design</li>
+			            </ul>
+		          	</div>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="icon" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<i class="icon-education-087 u-line-icon-pro"></i>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Web Design &amp; Development]]></dynamic-content>
+	</dynamic-element> 
+	
+	<dynamic-element name="services" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant and ready to adapt.</p>
+		            <div class="d-inline-block g-width-40 g-brd-bottom g-brd-gray-dark-v5 g-my-15"></div>
+			            <ul class="list-unstyled g-px-30 g-mb-0">
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Analysis &amp; Consulting</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Email Marketing</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">App &amp; Icon Design</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Responsive Web Desgin</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Social Networking</li>
+			              <li class="g-py-8">Documentation</li>
+			            </ul>
+		            </div>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="icon" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<i class="icon-finance-009 u-line-icon-pro"></i>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[Marketing &amp; Cunsulting]]></dynamic-content>
+	</dynamic-element> 
+	
+	<dynamic-element name="services" type="text" dataType="string" indexType="keyword">
+		<dynamic-element name="desc" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<p class="g-color-gray-dark-v4">We strive to embrace and drive change in our industry which allows us to keep our clients relevant and ready to adapt.</p>
+		            <div class="d-inline-block g-width-40 g-brd-bottom g-brd-gray-dark-v5 g-my-15"></div>
+			            <ul class="list-unstyled g-px-30 g-mb-0">
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Display Advertising</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">App &amp; Icon Design</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Analysis &amp; Consulting</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Google AdSense</li>
+			              <li class="g-brd-bottom g-brd-gray-light-v3 g-py-10">Social Media</li>
+			              <li class="g-py-8">Google/Bing Analysis</li>
+			            </ul>
+		          	</div>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="icon" type="text_area" index-type="keyword" index="0">
+	    	<dynamic-content language-id="en_US">
+	        	<![CDATA[ 
+	        		<i class="icon-finance-256 u-line-icon-pro"></i>
+	       		]]>
+			</dynamic-content>
+		</dynamic-element>
+		<dynamic-content><![CDATA[SEO &amp; Advertising]]></dynamic-content>
+	</dynamic-element>
+</root>

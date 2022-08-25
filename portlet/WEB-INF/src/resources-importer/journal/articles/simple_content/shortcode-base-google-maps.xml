@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="content" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[
+        	
+				<section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall" data-options="{direction: 'reverse', settings_mode_oneelement_max_offset: '150'}">
+					<!-- Parallax Image -->
+					<div style="height: 200%; background-image: url('[$FILE=pattern6-2.png$]'); transform: translate3d(0px, -142.298px, 0px);" class="divimage dzsparallaxer--target w-100 g-bg-repeat g-bg-gray-light-v4"></div>
+						<!-- End Parallax Image -->
+						
+						<div class="container g-z-index-1 g-py-100">
+							<h1 class="g-font-weight-300 g-letter-spacing-1 g-mb-15">Google Maps</h1>
+							
+							<div class="lead g-font-weight-400 g-line-height-2 g-letter-spacing-0_5">
+							<p class="mb-0">Base Components are usually small helper components to build Block Components.
+							<br>These Components can be easily used and customized in any blocks.</p>
+						</div>
+					</div>
+				</section>
+        	]]>
+		</dynamic-content>
+	</dynamic-element>
+</root>

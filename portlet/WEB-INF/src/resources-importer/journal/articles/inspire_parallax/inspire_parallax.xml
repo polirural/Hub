@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US"> 
+	<dynamic-element name="title" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		<h2 class="h4 d-inline-block g-brd-bottom g-brd-2 g-brd-black g-color-black g-font-weight-600 text-uppercase g-pb-5">Unify bootstrap template</h2>
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+		
+	<dynamic-element name="desc"  type="text_area" index-type="keyword" index="0">
+		<dynamic-content><![CDATA[
+			<h3 class="g-color-black g-font-weight-700 g-font-size-40 g-font-size-55--md text-uppercase g-mb-40" data-animation="fadeInUp" data-animation-delay="800" data-animation-duration="1500">
+		        We are creative company
+		      </h3>
+		    <div data-animation="fadeInUp" data-animation-delay="1100" data-animation-duration="1500">
+		      <a class="btn btn-lg u-btn-outline-black g-font-weight-600 g-font-size-13 text-uppercase g-rounded-50 mx-2 g-px-25 g-py-15 g-mb-20" href="#">Discover More</a>
+		      <a class="btn btn-lg u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase g-rounded-50 mx-2 g-px-25 g-py-15 g-mb-20" href="#">Purchase Now</a>
+		    </div>
+		]]></dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="video"  type="text_area" index-type="keyword" index="0">
+		<dynamic-content><![CDATA[
+			 <a class="js-fancybox-media rounded-circle u-icon-v2 g-font-size-20 g-color-white g-bg-black g-brd-black g-bg-primary--hover g-brd-primary--hover g-text-underline--none--hover" href="javascript:;" data-src="//vimeo.com/36031564" data-speed="1000" data-animate-in="fadeIn"
+		      data-animate-out="fadeOut">
+		        <i class="g-pos-rel g-left-2 hs-icon hs-icon-play"></i>
+		      </a>
+		]]></dynamic-content>
+	</dynamic-element>
+		
+	<dynamic-element instance-id="image1" name="image" type="image" index-type="keyword">
+		<dynamic-content><![CDATA[{"data":"[$FILE=1920_1080_img1.jpg$]"}]]></dynamic-content>
+	</dynamic-element>
+</root>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US"> 
+	<dynamic-element name="title" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+        		<h2 class="h1 text-uppercase g-color-white g-mb-30">
+        			<span class="g-bg-primary-dark-v3 g-px-5">Clean &amp; Fresh</span><br>
+                  	<span class="g-bg-primary-dark-v3 g-px-5">Fully Responsive</span><br>
+                  	<span class="g-bg-primary-dark-v3 g-px-5">Design</span>
+                </h2>
+			]]>
+		</dynamic-content>
+	</dynamic-element>
+		
+	<dynamic-element name="desc"  type="text_area" index-type="keyword" index="0">
+		<dynamic-content><![CDATA[
+			<h3 class="h4 g-color-white">
+	           	<span class="g-bg-black-opacity-0_6 g-px-5">Start a new project with easy</span><br>
+	            <span class="g-bg-black-opacity-0_6 g-px-5">to use 1610+ Reusable</span><br>
+	            <span class="g-bg-black-opacity-0_6 g-px-5">UI Components</span>
+            </h3>
+		]]></dynamic-content>
+	</dynamic-element>
+	
+	<dynamic-element name="video"  type="text_area" index-type="keyword" index="0">
+		<dynamic-content><![CDATA[
+			<!-- Vimeo Example -->
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="//player.vimeo.com/video/47911018" width="530" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+              </div>
+              <!-- End Vimeo Example -->
+		]]></dynamic-content>
+	</dynamic-element>
+		
+	<dynamic-element instance-id="image1" name="image" type="image" index-type="keyword">
+		<dynamic-content><![CDATA[{"data":"[$FILE=1920_700_img1.jpg$]"}]]></dynamic-content>
+	</dynamic-element>
+</root>

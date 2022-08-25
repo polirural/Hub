@@ -1,0 +1,789 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="content" type="text_area" index-type="keyword" index="0">
+    	<dynamic-content language-id="en_US">
+        	<![CDATA[ 
+    <!-- Page Title -->
+    <section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall g-overflow-hidden" data-options="{direction: 'reverse', settings_mode_oneelement_max_offset: '150'}">
+      <!-- Parallax Image -->
+      <div style="height: 200%; background-image: url([$FILE=pattern6_2.png$]); transform: translate3d(0px, -210.955px, 0px);" class="divimage dzsparallaxer--target w-100 g-bg-repeat g-bg-gray-light-v4"></div>
+      <!-- End Parallax Image -->
+
+      <div class="container g-z-index-1 g-py-100">
+        <h1 class="g-font-weight-300 g-letter-spacing-1 g-mb-15">Gallery Carousel</h1>
+
+        <div class="lead g-font-weight-400 g-line-height-2 g-letter-spacing-0_5">
+          <p class="mb-0">Block Components are usually collection of Base Components with/without the Global Classes.
+            <br>These Components can be easily used and customized in any pages. Build websites like a Lego!</p>
+        </div>
+      </div>
+    </section>
+    <!-- End Page Title -->
+
+    <section class="g-py-100">
+      <!-- Gallery #01 -->
+      <section class="container">
+        <div class="text-center g-mb-50">
+          <h2 class="h4">Gallery
+            <span class="g-color-primary g-ml-5">#01</span>
+          </h2>
+        </div>
+
+        <div id="shortcode6">
+          <div class="shortcode-html">
+            <div class="row">
+              <div class="col-md-6 text-center g-mb-30">
+                <div class="js-carousel text-center g-pb-30" data-infinite="true" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-35 g-height-40 g-font-size-18 g-color-gray g-bg-white g-mt-minus-10" data-arrow-left-classes="fa fa-angle-left g-left-0" data-arrow-right-classes="fa fa-angle-right g-right-0">
+                  <div class="js-slide">
+                    <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-1" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000" data-overlay-blur-bg="true">
+                      <img class="img-fluid g-rounded-6" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+
+                  <div class="js-slide">
+                    <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-1" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000" data-overlay-blur-bg="true">
+                      <img class="img-fluid g-rounded-6" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+                </div>
+
+                <h3 class="h4 g-color-black">Nulla ipsum dolor</h3>
+                <p>Consectetur adipiscing elitut eleifend nisl</p>
+              </div>
+              <div class="col-md-6 text-center g-mb-30">
+                <div class="js-carousel text-center g-pb-30" data-infinite="true" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-35 g-height-40 g-font-size-18 g-color-gray g-bg-white g-mt-minus-10" data-arrow-left-classes="fa fa-angle-left g-left-0" data-arrow-right-classes="fa fa-angle-right g-right-0">
+                  <div class="js-slide">
+                    <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-2" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000" data-overlay-blur-bg="true">
+                      <img class="img-fluid g-rounded-6" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+
+                  <div class="js-slide">
+                    <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-2" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000" data-overlay-blur-bg="true">
+                      <img class="img-fluid g-rounded-6" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+                </div>
+
+                <h3 class="h4 g-color-black">Habitasse platea</h3>
+                <p>Consectetur adipiscing elitut eleifend nisl</p>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-6 text-center g-mb-30">
+                <div class="js-carousel text-center g-pb-30" data-infinite="true" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-35 g-height-40 g-font-size-18 g-color-gray g-bg-white g-mt-minus-10" data-arrow-left-classes="fa fa-angle-left g-left-0" data-arrow-right-classes="fa fa-angle-right g-right-0">
+                  <div class="js-slide">
+                    <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-3" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000" data-overlay-blur-bg="true">
+                      <img class="img-fluid g-rounded-6" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+
+                  <div class="js-slide">
+                    <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-3" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000" data-overlay-blur-bg="true">
+                      <img class="img-fluid g-rounded-6" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+                </div>
+
+                <h3 class="h4 g-color-black">Adipiscing elitut</h3>
+                <p>Consectetur adipiscing elitut eleifend nisl</p>
+              </div>
+
+              <div class="col-md-6 text-center g-mb-30">
+                <div class="js-carousel text-center g-pb-30" data-infinite="true" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-35 g-height-40 g-font-size-18 g-color-gray g-bg-white g-mt-minus-10" data-arrow-left-classes="fa fa-angle-left g-left-0" data-arrow-right-classes="fa fa-angle-right g-right-0">
+                  <div class="js-slide">
+                    <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-4" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000" data-overlay-blur-bg="true">
+                      <img class="img-fluid g-rounded-6" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+
+                  <div class="js-slide">
+                    <a class="js-fancybox" href="javascript:;" data-fancybox="lightbox-gallery--07-4" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000" data-overlay-blur-bg="true">
+                      <img class="img-fluid g-rounded-6" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+                </div>
+
+                <h3 class="h4 g-color-black">Eleifend nisl</h3>
+                <p>Consectetur adipiscing elitut eleifend nisl</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="shortcode-styles">
+            <!-- CSS Implementing Plugins -->
+            <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/icon-hs/style.css">
+            <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/fancybox/jquery.fancybox.min.css">
+            <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/slick-carousel/slick/slick.css">
+          </div>
+
+          <div class="shortcode-scripts">
+            <!-- JS Implementing Plugins -->
+            <script type="text/plain" src="/o/unify-corporate-theme/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
+            <script type="text/plain" src="/o/unify-corporate-theme/assets/vendor/slick-carousel/slick/slick.js"></script>
+
+            <!-- JS Unify -->
+            <script type="text/plain" src="/o/unify-corporate-theme/assets/js/components/hs.popup.js"></script>
+            <script type="text/plain" src="/o/unify-corporate-theme/assets/js/components/hs.carousel.js"></script>
+
+            <!-- JS Plugins Init. -->
+            <script type="text/plain">
+              $(document).on('ready', function () {
+                // initialization of popups
+                $.HSCore.components.HSPopup.init('.js-fancybox');
+
+                // initialization of carousel
+                $.HSCore.components.HSCarousel.init('.js-carousel');
+              });
+            </script>
+          </div>
+        </div>
+
+
+
+
+        <!-- Show Code -->
+        <div class="g-font-size-12 g-my-30 container">
+          <a class="js-modal-markup u-link-v5  g-color-main  g-color-primary--hover g-mr-15" href="#" data-content-target="#shortcode6" data-modal-target="#modalMarkup" data-modal-effect="fadein">
+            <i class="fa fa-code"></i>
+            Show code
+          </a>
+          <a class="js-copy u-link-v5  g-color-main  g-color-primary--hover" href="#" data-content-target="#shortcode6" data-success-text="Copied">
+            <i class="fa fa-clone"></i>
+            Copy code
+          </a>
+        </div>
+        <!-- End Show Code -->
+
+      </section>
+      <!-- End Gallery #01 -->
+
+      <hr class="g-brd-gray-light-v4 g-my-60">
+
+      <!-- Gallery #02 -->
+      <section class="container">
+        <div class="text-center g-mb-50">
+          <h2 class="h4">Gallery
+            <span class="g-color-primary g-ml-5">#02</span>
+          </h2>
+        </div>
+
+        <div class="row justify-content-md-center">
+          <div class="col-md-6">
+            <div id="shortcode8">
+              <div class="shortcode-html">
+                <div id="carousel-08-1" class="js-carousel text-center g-mb-20" data-infinite="true" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-35 g-height-40 g-font-size-18 g-color-gray g-bg-white g-mt-minus-10" data-arrow-left-classes="fa fa-angle-left g-left-0"
+                data-arrow-right-classes="fa fa-angle-right g-right-0" data-nav-for="#carousel-08-2">
+                  <div class="js-slide">
+                    <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--08-1" data-src="[$FILE=500_450_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                    data-overlay-blur-bg="true">
+                      <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+
+                  <div class="js-slide">
+                    <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--08-1" data-src="[$FILE=500_450_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                    data-overlay-blur-bg="true">
+                      <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+
+                  <div class="js-slide">
+                    <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--08-1" data-src="[$FILE=500_450_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                    data-overlay-blur-bg="true">
+                      <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+
+                  <div class="js-slide">
+                    <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--08-1" data-src="[$FILE=500_450_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                    data-overlay-blur-bg="true">
+                      <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+
+                  <div class="js-slide">
+                    <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--08-1" data-src="[$FILE=500_450_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                    data-overlay-blur-bg="true">
+                      <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+
+                  <div class="js-slide">
+                    <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--08-1" data-src="[$FILE=500_450_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                    data-overlay-blur-bg="true">
+                      <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                    </a>
+                  </div>
+                </div>
+
+                <div id="carousel-08-2" class="js-carousel text-center g-mx-minus-10 u-carousel-v3" data-infinite="true" data-center-mode="true" data-slides-show="4" data-is-thumbs="true" data-nav-for="#carousel-08-1">
+                  <div class="js-slide g-px-10">
+                    <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                  </div>
+
+                  <div class="js-slide g-px-10">
+                    <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                  </div>
+
+                  <div class="js-slide g-px-10">
+                    <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                  </div>
+
+                  <div class="js-slide g-px-10">
+                    <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                  </div>
+
+                  <div class="js-slide g-px-10">
+                    <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                  </div>
+
+                  <div class="js-slide g-px-10">
+                    <img class="img-fluid w-100" src="[$FILE=500_450_img1.jpg$]" alt="Image Description">
+                  </div>
+                </div>
+              </div>
+
+              <div class="shortcode-styles">
+                <!-- CSS Implementing Plugins -->
+                <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/icon-hs/style.css">
+                <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/fancybox/jquery.fancybox.min.css">
+                <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/slick-carousel/slick/slick.css">
+              </div>
+
+              <div class="shortcode-scripts">
+                <!-- JS Implementing Plugins -->
+                <script type="text/plain" src="/o/unify-corporate-theme/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
+                <script type="text/plain" src="/o/unify-corporate-theme/assets/vendor/slick-carousel/slick/slick.js"></script>
+
+                <!-- JS Unify -->
+                <script type="text/plain" src="/o/unify-corporate-theme/assets/js/components/hs.popup.js"></script>
+                <script type="text/plain" src="/o/unify-corporate-theme/assets/js/components/hs.carousel.js"></script>
+
+                <!-- JS Plugins Init. -->
+                <script type="text/plain">
+                  $(document).on('ready', function () {
+                    // initialization of popups
+                    $.HSCore.components.HSPopup.init('.js-fancybox');
+
+                    // initialization of carousel
+                    $.HSCore.components.HSCarousel.init('.js-carousel');
+                  });
+                </script>
+              </div>
+            </div>
+
+
+
+            <!-- Show Code -->
+            <div class="g-font-size-12 g-my-30 container">
+              <a class="js-modal-markup u-link-v5  g-color-main  g-color-primary--hover g-mr-15" href="#" data-content-target="#shortcode8" data-modal-target="#modalMarkup" data-modal-effect="fadein">
+                <i class="fa fa-code"></i>
+                Show code
+              </a>
+              <a class="js-copy u-link-v5  g-color-main  g-color-primary--hover" href="#" data-content-target="#shortcode8" data-success-text="Copied">
+                <i class="fa fa-clone"></i>
+                Copy code
+              </a>
+            </div>
+            <!-- End Show Code -->
+
+          </div>
+        </div>
+      </section>
+      <!-- End Gallery #02 -->
+
+      <hr class="g-brd-gray-light-v4 g-my-60">
+
+      <!-- Gallery #03 -->
+      <section class="container">
+        <div class="text-center g-mb-50">
+          <h2 class="h4">Gallery
+            <span class="g-color-primary g-ml-5">#03</span>
+          </h2>
+        </div>
+
+        <div class="row">
+          <div class="col-md-8 ml-md-auto mr-md-auto">
+            <div id="shortcode9">
+              <div class="shortcode-html">
+                <div class="row">
+                  <div class="col-md-10">
+                    <div id="carousel-09-1" class="js-carousel text-center g-font-size-0 g-mb-20 g-mb-0--sm" data-infinite="true" data-vertical="true" data-arrows-classes="u-arrow-v1 g-absolute-centered--x g-width-35 g-height-35 g-font-size-18 g-color-gray g-bg-white" data-arrow-left-classes="fa fa-angle-up g-top-0"
+                    data-arrow-right-classes="fa fa-angle-down g-bottom-0" data-nav-for="#carousel-09-2">
+                      <div class="js-slide">
+                        <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--09-1" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                        data-overlay-blur-bg="true">
+                          <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </div>
+
+                      <div class="js-slide">
+                        <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--09-1" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                        data-overlay-blur-bg="true">
+                          <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </div>
+
+                      <div class="js-slide">
+                        <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--09-1" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                        data-overlay-blur-bg="true">
+                          <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </div>
+
+                      <div class="js-slide">
+                        <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--09-1" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                        data-overlay-blur-bg="true">
+                          <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </div>
+
+                      <div class="js-slide">
+                        <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--09-1" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                        data-overlay-blur-bg="true">
+                          <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </div>
+
+                      <div class="js-slide">
+                        <a class="js-fancybox d-block g-pos-rel" href="javascript:;" data-fancybox="lightbox-gallery--09-1" data-src="[$FILE=900_600_img1.jpg$]" data-caption="Lightbox Gallery" data-animate-in="bounceInDown" data-animate-out="bounceOutDown" data-speed="1000"
+                        data-overlay-blur-bg="true">
+                          <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-md-2">
+                    <div id="carousel-09-2" class="js-carousel text-center u-carousel-v3 g-mx-minus-10 g-mx-minus-0--sm g-my-minus-5--sm" data-infinite="true" data-center-mode="true" data-vertical="true" data-slides-show="4" data-is-thumbs="true" data-nav-for="#carousel-09-1">
+                      <div class="js-slide g-px-10 g-px-0--sm g-py-5--sm">
+                        <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                      </div>
+
+                      <div class="js-slide g-px-10 g-px-0--sm g-py-5--sm">
+                        <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                      </div>
+
+                      <div class="js-slide g-px-10 g-px-0--sm g-py-5--sm">
+                        <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                      </div>
+
+                      <div class="js-slide g-px-10 g-px-0--sm g-py-5--sm">
+                        <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                      </div>
+
+                      <div class="js-slide g-px-10 g-px-0--sm g-py-5--sm">
+                        <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                      </div>
+
+                      <div class="js-slide g-px-10 g-px-0--sm g-py-5--sm">
+                        <img class="img-fluid w-100" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="shortcode-styles">
+                <!-- CSS Implementing Plugins -->
+                <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/icon-hs/style.css">
+                <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/fancybox/jquery.fancybox.min.css">
+                <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/slick-carousel/slick/slick.css">
+              </div>
+
+              <div class="shortcode-scripts">
+                <!-- JS Implementing Plugins -->
+                <script type="text/plain" src="/o/unify-corporate-theme/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
+                <script type="text/plain" src="/o/unify-corporate-theme/assets/vendor/slick-carousel/slick/slick.js"></script>
+
+                <!-- JS Unify -->
+                <script type="text/plain" src="/o/unify-corporate-theme/assets/js/components/hs.popup.js"></script>
+                <script type="text/plain" src="/o/unify-corporate-theme/assets/js/components/hs.carousel.js"></script>
+
+                <!-- JS Plugins Init. -->
+                <script type="text/plain">
+                  $(document).on('ready', function () {
+                    // initialization of popups
+                    $.HSCore.components.HSPopup.init('.js-fancybox');
+
+                    // initialization of carousel
+                    $.HSCore.components.HSCarousel.init('.js-carousel');
+                  });
+                </script>
+              </div>
+            </div>
+
+
+
+            <!-- Show Code -->
+            <div class="g-font-size-12 g-my-30 container">
+              <a class="js-modal-markup u-link-v5  g-color-main  g-color-primary--hover g-mr-15" href="#" data-content-target="#shortcode9" data-modal-target="#modalMarkup" data-modal-effect="fadein">
+                <i class="fa fa-code"></i>
+                Show code
+              </a>
+              <a class="js-copy u-link-v5  g-color-main  g-color-primary--hover" href="#" data-content-target="#shortcode9" data-success-text="Copied">
+                <i class="fa fa-clone"></i>
+                Copy code
+              </a>
+            </div>
+            <!-- End Show Code -->
+
+          </div>
+        </div>
+      </section>
+      <!-- End Gallery #03 -->
+
+      <hr class="g-brd-gray-light-v4 g-my-60">
+
+      <!-- Gallery #04 -->
+      <section class="container">
+        <div class="text-center g-mb-50">
+          <h2 class="h4">Gallery
+            <span class="g-color-primary g-ml-5">#04</span>
+          </h2>
+        </div>
+
+        <div id="shortcode10">
+          <div class="shortcode-html">
+            <div class="js-carousel text-center g-font-size-0 g-pb-20" data-infinite="true" data-center-padding="60px" data-slides-show="5" data-slides-scroll="5" data-rows="3" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-40 g-height-40 g-font-size-18 g-color-white g-bg-primary"
+            data-arrow-left-classes="fa fa-angle-left g-left-0" data-arrow-right-classes="fa fa-angle-right g-right-0" data-pagi-classes="u-carousel-indicators-v1 g-absolute-centered--x g-bottom-0" data-responsive='[{
+                   "breakpoint": 768,
+                   "settings": {
+                     "slidesToShow": 2,
+                     "slidesToScroll": 2,
+                     "centerPadding": 0
+                   }
+                 }]'>
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+
+              <div class="js-slide">
+                <a class="js-fancybox d-block u-block-hover u-bg-overlay g-bg-black-opacity-0_3--after g-bg-primary-opacity-0_8--hover--after g-transition-0_3" href="javascript:;" data-fancybox="lightbox-gallery--10" data-src="[$FILE=900_600_img1.jpg$]"
+                data-caption="Lightbox Gallery">
+                  <img class="img-fluid" src="[$FILE=900_600_img1.jpg$]" alt="Image Description">
+
+                  <span class="u-block-hover__additional--fade g-color-white g-z-index-2">
+                    <i class="hs-icon hs-icon-magnifier g-absolute-centered g-font-size-25"></i>
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="shortcode-styles">
+            <!-- CSS Implementing Plugins -->
+            <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/icon-hs/style.css">
+            <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/fancybox/jquery.fancybox.min.css">
+            <link type="text/plain" rel="stylesheet" href="/o/unify-corporate-theme/assets/vendor/slick-carousel/slick/slick.css">
+          </div>
+
+          <div class="shortcode-scripts">
+            <!-- JS Implementing Plugins -->
+            <script type="text/plain" src="/o/unify-corporate-theme/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
+            <script type="text/plain" src="/o/unify-corporate-theme/assets/vendor/slick-carousel/slick/slick.js"></script>
+
+            <!-- JS Unify -->
+            <script type="text/plain" src="/o/unify-corporate-theme/assets/js/components/hs.popup.js"></script>
+            <script type="text/plain" src="/o/unify-corporate-theme/assets/js/components/hs.carousel.js"></script>
+
+            <!-- JS Plugins Init. -->
+            <script type="text/plain">
+              $(document).on('ready', function () {
+                // initialization of popups
+                $.HSCore.components.HSPopup.init('.js-fancybox');
+
+                // initialization of carousel
+                $.HSCore.components.HSCarousel.init('.js-carousel');
+              });
+            </script>
+          </div>
+        </div>
+
+
+
+        <!-- Show Code -->
+        <div class="g-font-size-12 g-my-30 container">
+          <a class="js-modal-markup u-link-v5  g-color-main  g-color-primary--hover g-mr-15" href="#" data-content-target="#shortcode10" data-modal-target="#modalMarkup" data-modal-effect="fadein">
+            <i class="fa fa-code"></i>
+            Show code
+          </a>
+          <a class="js-copy u-link-v5  g-color-main  g-color-primary--hover" href="#" data-content-target="#shortcode10" data-success-text="Copied">
+            <i class="fa fa-clone"></i>
+            Copy code
+          </a>
+        </div>
+        <!-- End Show Code -->
+
+      </section>
+      <!-- End Gallery #04 -->
+    </section>
+
+    <!-- Call To Action -->
+    <section class="g-bg-primary g-color-white g-pa-30" style="background-image: url([$FILE=pattern5.png$]);">
+      <div class="d-md-flex justify-content-md-center text-center">
+        <div class="align-self-md-center">
+          <p class="lead g-font-weight-400 g-mr-20--md g-mb-15 g-mb-0--md">We offer best in class service for your needs</p>
+        </div>
+        <div class="align-self-md-center">
+          <a class="btn btn-lg u-btn-white text-uppercase g-font-weight-600 g-font-size-12" target="_blank" href="https://www.themeray.com/themes">Purchase Now</a>
+        </div>
+      </div>
+    </section>
+    <!-- End Call To Action -->
+
+  <div id="modalMarkup" class="text-left modal-demo g-width-95x g-height-95x g-bg-white g-color-black g-pa-20" style="display: none;"></div>
+
+<script>
+	(function loopGallery() {
+		setTimeout(function () {
+			if($.HSCore != undefined && $.HSCore.components.HSTextSlideshow != undefined ){
+        		try{
+				  $.HSCore.helpers.HSModalMarkup.init('.js-modal-markup');
+				}catch(ex){
+					console.log(ex);
+				}
+				
+				try{
+					$.HSCore.components.HSMarkupCopy.init('.js-copy');
+				}catch(ex){
+					console.log(ex);
+				}
+				
+				try{
+					$.HSCore.components.HSCarousel.init('.js-carousel');
+				}catch(ex){
+					console.log(ex);
+				}
+				try{
+				  // initialization of masonry
+				  $('.masonry-grid').imagesLoaded().then(function () {
+					$('.masonry-grid').masonry({
+					  columnWidth: '.masonry-grid-sizer',
+					  itemSelector: '.masonry-grid-item',
+					  percentPosition: true
+					});
+				  });
+				}catch(ex){
+					console.log(ex);
+				}
+				
+				try{
+				  // initialization of popups
+				  $.HSCore.components.HSPopup.init('.js-fancybox');
+				}catch(ex){
+					console.log(ex);
+				}
+				
+				try{
+				  // initialization of popups with media
+				  $.HSCore.components.HSPopup.init('.js-fancybox-media', {
+					helpers: {
+					  media: {},
+					  overlay: {
+						css: {
+						  'background': 'rgba(255, 255, 255, .8)'
+						}
+					  }
+					}
+				  });
+				}catch(ex){
+					console.log(ex);
+				}
+		    }else{
+			    loopGallery()
+		    }
+		  }, 1000);
+	}());
+</script>
+
+		]]>
+		</dynamic-content>
+	</dynamic-element>
+</root>
