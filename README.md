@@ -3,7 +3,7 @@
 
 The aim of the Polirural Innovation Hub is to offer a public user interface and introduction to the innovations of the project. It will be a central and virtual space, where all stakeholders (policymakers, public servant, regional development agencies, NGO, citizens, scientists, developers, data experts, planners) will meet and share their needs and achievements to improve policy and decision-making on local, regional and eventually national level. The core of the Innovation Hub will be the Digital Innovation Hub platform, which will support the sharing of information with other projects and initiatives. [Read more](https://polirural.eu/innovation-hub/).
 
-[Official web site](https://hub.polirural.eu/)
+[Official website](https://hub.polirural.eu/)
 
 ---
 
